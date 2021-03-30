@@ -4,9 +4,12 @@ role: PhD candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Labor
+  - Macroeconomics
+  - Development Economics
+  - Income Inequality
+  - Gender Inequality
+  - and Health and Disability
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,19 +25,25 @@ organizations:
     url: https://www.fordham.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Economics
+      institution: Fordham University
+      year: ""
+    - course: MS in Economics
+      institution: Fordham University
+      year: 2003
+    - course: MEng in Life Sciences
+      institution: ParisTech
+      year: 1998
+    - course: BSc in Biology, Physica and Mathematics
+      institution: Classes préparatoires Clemenceau
 email: ""
 superuser: true
 highlight_name: false
 ---
-Justine Herve is a PhD candidate
+<!--StartFragment-->
+
+I am a Ph.D. candidate in Economics at Fordham University in New York City.
+
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
