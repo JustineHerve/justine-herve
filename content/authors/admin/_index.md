@@ -4,9 +4,10 @@ role: PhD candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Labor
+  - Labor Economics
   - Macroeconomics
   - Development Economics
+  - Environmental Economics
   - Income Inequality
   - Gender Inequality
   - Health and Disability
