@@ -31,7 +31,7 @@ education:
     - course: MS in Economics
       institution: Fordham University
       year: 2003
-    - course: MEng in Life Sciences
+    - course: MEng in Environmental and Life Sciences
       institution: ParisTech
       year: 1998
     - course: BSc in Biology, Physica and Mathematics
