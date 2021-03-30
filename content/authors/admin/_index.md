@@ -30,11 +30,11 @@ education:
       year: ""
     - course: MS in Economics
       institution: Fordham University
-      year: 2003
+      year: 2018
     - course: MEng in Environmental and Life Sciences
       institution: ParisTech
-      year: 1998
-    - course: BSc in Biology, Physica and Mathematics
+      year: 2012
+    - course: BSc in Biology, Physics and Mathematics
       institution: Classes préparatoires Clemenceau
 email: ""
 superuser: true
