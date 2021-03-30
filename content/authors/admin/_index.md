@@ -9,7 +9,7 @@ interests:
   - Development Economics
   - Income Inequality
   - Gender Inequality
-  - and Health and Disability
+  - Health and Disability
 social:
   - icon: envelope
     icon_pack: fas
