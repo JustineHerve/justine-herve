@@ -11,7 +11,7 @@ tags: []
 links: []
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: ""
 url_code: ""
 ---
 
